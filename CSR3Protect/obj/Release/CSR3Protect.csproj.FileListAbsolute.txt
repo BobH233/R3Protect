@@ -1,0 +1,8 @@
+H:\编程\CSR3Protect\CSR3Protect\bin\Release\CSR3Protect.exe.config
+H:\编程\CSR3Protect\CSR3Protect\bin\Release\CSR3Protect.exe
+H:\编程\CSR3Protect\CSR3Protect\bin\Release\CSR3Protect.pdb
+H:\编程\CSR3Protect\CSR3Protect\obj\Release\CSR3Protect.Properties.Resources.resources
+H:\编程\CSR3Protect\CSR3Protect\obj\Release\CSR3Protect.csproj.GenerateResource.Cache
+H:\编程\CSR3Protect\CSR3Protect\obj\Release\CSR3Protect.csproj.CoreCompileInputs.cache
+H:\编程\CSR3Protect\CSR3Protect\obj\Release\CSR3Protect.exe
+H:\编程\CSR3Protect\CSR3Protect\obj\Release\CSR3Protect.pdb
